@@ -15,7 +15,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
 <img draggable="false" class="tilt" src="./ReadMe Images/sc1.png" alt="">
-<img draggable="false" class="tilt" src="./ReadMe Images/sc2.png alt="">
+<img draggable="false" class="tilt" src="./ReadMe Images/sc2.png" alt="">
 <img draggable="false" class="tilt" src="./ReadMe Images/sc3.png" alt="">
 
 
